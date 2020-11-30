@@ -1,5 +1,5 @@
-# Cat-Dogs-Classifier:
-Cats and dogs classifications using a deep neural network.
+# Cat-Dog-Classifier:
+Cat-dog classifications using a deep neural network.
 ### Network Architecture:
   | -  | Layer          | I/O Shape                       |
   |----|----------------|---------------------------------|
